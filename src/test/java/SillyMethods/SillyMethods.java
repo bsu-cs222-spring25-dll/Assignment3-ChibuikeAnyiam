@@ -1,6 +1,6 @@
 package SillyMethods;
 
-import java.util.Scanner;
+
 
 public class SillyMethods {
 
